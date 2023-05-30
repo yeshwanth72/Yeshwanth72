@@ -1,3 +1,11 @@
 h2 {
     color: blue;
 }
+th {
+    padding: 20px;
+    color: black;
+    background-color: lightblue;
+}
+td {
+    padding: 20px;
+}

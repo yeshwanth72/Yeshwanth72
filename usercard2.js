@@ -18,7 +18,7 @@ let flipdata=function() {
         ismsdold=false;
     }
     else{
-        displayobject=msdoldinfo;
+        displayobject=msdnewinfo;
         ismsdold=true;
     }
     document.getElementById("msd-img").src=displayobject.imgurl;

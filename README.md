@@ -1,1 +1,1 @@
-# daily-progress
+# daily-progress.github.io
